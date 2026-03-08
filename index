@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>〇〇バスケクラブ</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+<h1>〇〇バスケクラブ</h1>
+
+<div class="hamburger" onclick="toggleMenu()">
+☰
+</div>
+
+<nav id="nav-menu">
+<a href="menu.html">練習メニュー</a>
+<a href="team.html">チーム紹介</a>
+<a href="schedule.html">練習日程</a>
+<a href="contact.html">お問い合わせ</a>
+</nav>
+
+</header>
+
+<main>
+
+<h2>クラブチーム公式サイト</h2>
+<p>京都で活動しているバスケットボールクラブです。</p>
+
+</main>
+
+<script src="script.js"></script>
+
+</body>
+</html>
